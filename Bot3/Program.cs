@@ -133,7 +133,7 @@ class Program
                                     {
                                         await botClient.SendTextMessageAsync(
                                             chat.Id,
-                                            "Alright, send me a nubmer!",
+                                            "Alright, send me a number!",
                                             replyToMessageId: message.MessageId);
 
                                         return;
@@ -143,7 +143,7 @@ class Program
                                     {
                                         await botClient.SendTextMessageAsync(
                                             chat.Id,
-                                            "Alright, why i should do that?You can do it by yourself",
+                                            "Alright, why should i do that?You can do it by yourself",
                                             replyToMessageId: message.MessageId);
 
                                         return;
