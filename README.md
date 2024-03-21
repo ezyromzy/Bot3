@@ -23,4 +23,6 @@ Make sure to handle exceptions gracefully to ensure the bot runs smoothly.
 Customize the bot's responses and actions based on your requirements.
 Feel free to modify and expand upon this bot for your specific use case!
 
+License
+
 License This project is licensed under the MIT License.
